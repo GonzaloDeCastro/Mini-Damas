@@ -50,3 +50,21 @@ p {
 .prueba {
  color: gray;
 }
+img{
+display:block;
+margin:auto;
+}
+
+h2{
+ margin-left: 100px;
+ font-size: 30px;
+ color: inherit;
+}
+
+.col-md-12{
+  background-color: #dddddd;
+}
+
+footer{
+  background-color: ivory;
+}
